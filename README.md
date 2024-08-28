@@ -1,5 +1,4 @@
-### Hello! I'm kadable and I make games in pygame and am currently learning web dev (HTML, CSS, Javascript). I've also used PICO-8 and Gamemaker Studio 2.
-
+### Hello! I'm kadable and I make games and other software!
 <!--
 **kadable/kadable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
